@@ -11,10 +11,6 @@ I'm learning about Artificial Intelligence because I've always been fascinated a
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm an avid reader who deepens his knowledge in other fields such as classic literature, philosophy and psychology.
 
-
-<br/>
-
-
 ### Connect with me on:
 <br>
 <a target="_blank" href="https://www.linkedin.com/in/r%C4%83zvan-ispas-b286b5209/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
@@ -23,7 +19,6 @@ I'm learning about Artificial Intelligence because I've always been fascinated a
 &emsp;
 
 ### Github stats:
-<br>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Razvanip13)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Razvanip13&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
