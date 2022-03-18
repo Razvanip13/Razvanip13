@@ -2,7 +2,7 @@
 ### About me:
 I'm Razvan, a diligent and highly creative computer science student who currently completes Bachelor in Computer Science with specific focus on Affective Computing..<br/>
 I had a full-stack internship at TSS Yonder on .Net and Vue.js.<br/>
-I'm learning about artificial intelligence because I've always been fascinated about systems that can learn by themselves. You can find some of my public projects on my profile.
+I'm learning about Artificial Intelligence because I've always been fascinated about systems that can learn by themselves. You can find some of my public projects on my profile.
 
 - 🔭 I’m currently working on speech-to-text in the medical field, for my University.
 - 🌱 I’m currently learning time series analysis.
