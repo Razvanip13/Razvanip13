@@ -23,6 +23,7 @@ I'm learning about Artificial Intelligence because I've always been fascinated a
 &emsp;
 
 ### Github stats:
+<br>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Razvanip13)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Razvanip13&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
