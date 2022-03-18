@@ -6,7 +6,7 @@ I'm learning about Artificial Intelligence because I've always been fascinated a
 
 - 🔭 I’m currently working on speech-to-text in the medical field for my University.
 - 🌱 I’m currently learning time series analysis.
-- 👯 I’m looking to collaborate with Artificial Intelligence research teams.
+- 👯 I’m looking to collaborate with AI research teams.
 - 💬 Ask me about Natural Language Processing and Affective Computing.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm an avid reader who deepens his knowledge in other fields such as classic literature, philosophy and psychology.
