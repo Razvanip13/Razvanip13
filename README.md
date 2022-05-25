@@ -10,7 +10,7 @@ I'm learning Artificial Intelligence because I've always been fascinated about s
 - 👯 I’m looking to collaborate with AI research teams.
 - 💬 Ask me about Affective Computing, Speech Recognition and Natural Language Processing.
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm an avid reader who deepens his knowledge in other fields such as classic literature, philosophy and psychology.
+- ⚡ Fun fact: I'm an avid reader who deepens his knowledge in other fields such as classic literature, philosophy and psychology. There is a link below, if someone is interested in what I am reading recently. 
 
 ### Connect with me on:
 <br>
@@ -18,4 +18,5 @@ I'm learning Artificial Intelligence because I've always been fascinated about s
 &emsp;
 <a target="_blank" href="https://twitter.com/Razvanip"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
 &emsp;
-
+<a target="_blank" href="https://www.goodreads.com/user/show/101006284-r-zvan-ispas"><img src="https://cdn.icon-icons.com/icons2/1125/PNG/512/1486164227-goodreadssquarelight1_79648.png" width="30px"></img></a>
+&emsp;
