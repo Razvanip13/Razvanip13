@@ -10,7 +10,8 @@ I'm learning Artificial Intelligence because I've always been fascinated about s
 - 👯 I’m looking to collaborate with AI research teams.
 - 💬 Ask me about Affective Computing, Speech Recognition and Natural Language Processing.
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm an avid reader who deepens his knowledge in other fields such as classic literature, philosophy and psychology. There is a link below, if someone is interested in what I am reading recently. 
+- ⚡ Fun fact: I'm an avid reader who deepens his knowledge in other fields such as classic literature, philosophy and psychology. There is a link below, if someone is interested in what I am reading recently :books:. 
+- :jp: I also love anime. There is a MAL link below for those who are interested in what I'm watching right now.
 
 ### Connect with me on:
 <br>
