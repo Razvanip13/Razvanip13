@@ -1,12 +1,13 @@
 
 ### About me:
-I'm Razvan, a diligent and highly creative computer science student who currently completes Bachelor in Computer Science with specific focus on Affective Computing.<br/>
-I had a full-stack internship at TSS Yonder on .Net and Vue.js.<br/>
+I'm Razvan, a diligent and highly creative computer science student.<br/>
+I was a full-stack intern at TSS Yonder on .Net and Vue.js.<br/>
 I had a 6 months research scholarship where I developed speech to text models for Romanian medics. The research was taking part in my university and it was funded by PixelData. <br/>
+I graduated Computer Science at Babeș-Bolyai University
 I'm learning Artificial Intelligence because I've always been fascinated about systems that can learn by themselves. You can find some of my projects on my profile.
 
-- 🔭 I’m currently working on speech to text.
-- 🌱 I’m currently learning linux command line and classic machine learning.
+- 🔭 I’m currently working on a paperwork.
+- 🌱 I’m currently learning computer vision.
 - 👯 I’m looking to collaborate with AI research teams.
 - 💬 Ask me about Affective Computing, Speech Recognition and Natural Language Processing.
 - 😄 Pronouns: He/Him
