@@ -6,8 +6,8 @@ I had a 6 months research scholarship where I developed speech to text models fo
 I graduated Computer Science at Babeș-Bolyai University <br/>
 I'm learning Artificial Intelligence because I've always been fascinated about systems that can learn by themselves. You can find some of my projects on my profile.
 
-- 🔭 I’m currently working on a paperwork.
-- 🌱 I’m currently learning computer vision.
+- 🔭 I’m currently working on a dimensionality of emotions.
+- 🌱 I’m currently learning computer attention mechanisms.
 - 👯 I’m looking to collaborate with AI research teams.
 - 💬 Ask me about Affective Computing, Speech Recognition and Natural Language Processing.
 - 😄 Pronouns: He/Him
