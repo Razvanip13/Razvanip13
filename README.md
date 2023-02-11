@@ -1,7 +1,7 @@
 
 ### About me:
 Hi everyone, I'm Razvan :romania: and I'm an AI student at Paris-Saclay University :fr:. My current hobbies are meditation and jogging :upside_down_face:.<br/> <br/>
-Currently I'm a Research Trainee at LISN Institute in Paris :fr:. <br/>
+Former Research Trainee at LISN Institute in Paris :fr:. <br/>
 I had a 6 months research scholarship where I developed speech to text models for Romanian medics. The research was taking part in my university and it was funded by PixelData. <br/>
 I was a full-stack intern at TSS Yonder on .Net and Vue.js.<br/>
 I graduated Computer Science at Babeș-Bolyai University <br/>
